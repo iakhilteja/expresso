@@ -13,8 +13,9 @@ Go to package.json and change -<br/>
 Main : app.js<br/>
 Start : node app.js<br/>
 dev : nodemon app.js<br/><br/>
-( write “node_modules/” to not to add node modules to github )<br/><br/>
+
 Create ".gitignore" file <br/><br/>
+( write “node_modules/” in gitignore file to not to add node modules to github )<br/><br/>
 ^ symbol in the version in package.json means “patch” - semantic version.<br/><br/>
 (To show list of packages if outdated)<br/>
 ```npm outdated``` <br/><br/>
