@@ -1,6 +1,6 @@
 ## expresso
 ### Basics of Express JS code
-Never name the folder name same as a package name.<br/>Ex- Node, Express, NPM etc., (Conflicts with code and leads to concurrence attack)<br/><br/>
+Never name the folder name same as a package name.<br/>Ex- Node, Express, NPM etc., <br/>(Conflicts with code and leads to concurrence attack)<br/><br/>
 (installs package.json)<br/>
 ```npm init ```<br/><br/>
 Entry point - app.js<br/><br/>
@@ -9,7 +9,7 @@ Create app.js<br/><br/>
 ```npm i nodemon --save-dev ```<br/><br/>
 (installs express - normal dependencies)
 ```npm i express --save``` <br/><br/>
-Go to package.json and change -<br/>
+Go to package.json and change below-<br/>
 Main : app.js<br/>
 Start : node app.js<br/>
 dev : nodemon app.js<br/><br/>
