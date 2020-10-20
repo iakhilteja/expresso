@@ -5,9 +5,9 @@ Never name the folder name same as a package name.<br/>Ex- Node, Express, NPM et
 ```npm init ```<br/><br/>
 Entry point - app.js<br/><br/>
 Create app.js<br/><br/>
-(installs nodemon package(developer dependencies) - to automate the restarting of server)
+(installs nodemon package(developer dependencies) - to automate the restarting of server)<br/>
 ```npm i nodemon --save-dev ```<br/><br/>
-(installs express - normal dependencies)
+(installs express - normal dependencies)<br/>
 ```npm i express --save``` <br/><br/>
 Go to package.json and change below-<br/>
 Main : app.js<br/>
